@@ -25,7 +25,7 @@ Builder Pattern will provider the option to server the request from main class (
 
 ## Roadmap
 
-- Creating an Item Interface consist of item.packing and price info.
+- Creating an Item Interface consist of name of the item.packing and price info.
 
 - Meal Class will consist of item list,add item info
 
